@@ -17,9 +17,7 @@ pip install -r requirements.txt
 Usage
 Run the Streamlit app:
 
-streamlit run app.py![Uploading Screenshot (2136).png…]()
-![Uploading Screenshot (2135).png…]()
-![Uploading Screenshot (2130).png…]()
+streamlit run app.py
 
 Open your web browser and navigate to the URL provided by Streamlit (usually http://localhost:8501).
 
@@ -32,3 +30,8 @@ Technologies Used
 2.Streamlit
 3.NumPy
 4.PIL (Python Imaging Library)
+
+
+![Uploading Screenshot (2130).png…]()
+![Uploading Screenshot (2136).png…]()
+
